@@ -1,12 +1,5 @@
-## Hi there 👋
+# About us
 
-<!--
+The Research Infrastructure and Innovation Lab (ENTAILab) is dedicated to the use of existing research infrastructures, their advancement and the demand-oriented generation of a new research infrastructure for the needs of the InfPP projects and the development of new data spaces. ENTAILab aims to create a unique infrastructure for research-based innovations in the field of survey data and beyond.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ENTAILab consists of a set of four infrastructure measures that provide a successful and supportive environment for research within and across the projects of InfPP. Together, they will systematically feed results back into different kinds of panel applications and studies and social science research in general.   
